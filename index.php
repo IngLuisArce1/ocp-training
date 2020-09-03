@@ -7,6 +7,6 @@
     </head>
     <body>
         <p></p>
-        <?php echo '<p>Hola, Red Hat!</p>'; ?>
+        <?php echo '<p>Hola, Diego!</p>'; ?>
     </body>
 </html>
